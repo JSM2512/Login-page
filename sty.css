@@ -127,5 +127,8 @@ color: #fff;
 background: #808080;
 padding: 10px 20px;
 cursor:pointer;
-border-radius: 5px;
+border-radius: 18px;
+}
+h4{
+  color: #fff;
 }
